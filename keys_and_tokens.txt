@@ -1,0 +1,17 @@
+data_pipeline_test
+pipeline_extraction_test
+
+API Key
+9jFqcH3AOMducfEhh8859u1zT
+
+API Key Secret 
+1GzUwOcP5mPT6V0GeJp2d3pZ7NDRwwYnM2BFhU5FPDOhhSerEZ
+
+Bearer Token
+AAAAAAAAAAAAAAAAAAAAAPEQcQEAAAAAhLZFkERhVYSl7WVSyOmR5yptSRs%3DjXemwnNFyd8OzSIj5f87R4fge2NqIZAZHOMx8Jtx2UrTDrmcqu
+
+Access Token
+1248389260211826688-ChUjSdqbg9CCJF7qTX4cIthd3Xnoop
+
+Access Token Secret
+7ZhwmmCB5GGHDBulo3RYmbdSjhuyZuc0cP19pGMhChenA
